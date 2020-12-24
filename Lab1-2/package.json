@@ -1,0 +1,19 @@
+{
+  "name": "data-mining-gui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "author": "Beelink",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "chart.js": "^2.8.0",
+    "electron": "^6.0.9",
+    "lancaster-stemmer": "^1.0.4",
+    "readline-promise": "^1.0.4",
+    "str-to-arr": "^1.0.1"
+  },
+  "scripts": {
+    "parse": "node parser.js",
+    "gui": "electron ."
+  }
+}
