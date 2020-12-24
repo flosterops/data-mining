@@ -1,0 +1,19 @@
+{
+  "name": "laba4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "Jake Volynko",
+  "license": "ISC",
+  "dependencies": {
+    "data-forge": "^1.7.7",
+    "data-forge-fs": "0.0.7",
+    "opn": "^6.0.0",
+    "plotly": "^1.0.6",
+    "shaman": "^0.3.2",
+    "simple-statistics": "^7.0.7"
+  }
+}
